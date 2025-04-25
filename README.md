@@ -1,2 +1,20 @@
 # davidwrow.github.io
-ASfasf
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CVC Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="flashcard">
+        <h1 id="cvc-word">cat</h1>
+        <button id="show-picture">Show Picture</button>
+        <button id="next-word">Next Word</button>
+        <div id="picture"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
