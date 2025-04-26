@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>happy birthday</title>
+    <title>flash cards</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -23,7 +23,7 @@
 <p>Bright copper kettles Warm woolen mittens</p>
 
 <h1>
-Happy birthdays</h1>
+Happy birthday</h1>
 <h2>
 Console games</h2>
 <h2>
