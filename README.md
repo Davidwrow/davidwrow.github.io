@@ -18,3 +18,6 @@
     <script src="script.js"></script>
 </body>
 </html>
+<h1>My favorite things</h1>
+<p>Raindrops on roses Whiskers on kittens</p>
+<p>Bright copper kettles Warm woolen mittens</p>
