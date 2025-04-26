@@ -21,3 +21,10 @@
 <h1>My favorite things</h1>
 <p>Raindrops on roses Whiskers on kittens</p>
 <p>Bright copper kettles Warm woolen mittens</p>
+
+<h1>
+Video games</h1>
+<h2>
+Console games</h2>
+<h2>
+Mobile games</h2>
