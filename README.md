@@ -28,3 +28,5 @@ Happy birthday</h1>
 Console games</h2>
 <h2>
 Mobile games</h2>
+<img src="https://mimo.app/i/dog.png">
+<img src="https://mimo.app/i/cat.png">
